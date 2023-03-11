@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="country">
+        <item>USA</item>
+        <item>UK</item>
+        <item>INDIA</item>
+        <item>RUSSIA</item>
+        <item>EUROPE</item>
+    </string-array>
+
+    <string name="india">India is a land of various cultures and a rich heritage.
+        It is the seventh-largest country by area and the second-most populous country globally.
+        The peacock is India’s national bird, and the Bengal tiger is the country’s national animal.
+        The national song is named Vande Matram (written by Bankimchandra Chatterji).
+        The Indian national song was first performed at the Indian National Congress in 1896. ‘Jana Gana Mana,’ India’s national anthem, is sung in 52 seconds. The national flag of India is named Tiranga, which is made up of three colours: saffron, white, and green, with the Ashoka Chakra in navy blue in the centre.</string>
+
+    <string name="usa">
+        The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations.
+    </string>
+
+</resources>
